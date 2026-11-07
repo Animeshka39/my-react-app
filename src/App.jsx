@@ -1,4 +1,4 @@
-import ProductSearchApp from './ProductSearchApp.jsx';
+import ProductSearchApp from './useStore.jsx';
 import './index.css'
 
 export default function App() {
